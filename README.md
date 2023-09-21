@@ -29,6 +29,11 @@
 > Web Development
 </details>
 
+<div  align='center' style='display: flex; flex-direction: column;'>
+<img align="center" src="githubGIF.gif"/>
+</div>
+
+
 ---
 <h1 align='center'>🖥️ Languages</h1>
 
@@ -96,9 +101,6 @@
 <img align="center" alt="SQlite" width="100px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/450px-SQLite370.svg.png" />
 </p>
 
-
-
-<br><br>
 
 ---
 
